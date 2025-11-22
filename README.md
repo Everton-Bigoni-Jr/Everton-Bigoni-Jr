@@ -8,10 +8,12 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <!--HTML icon-->
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <!--CSS icon-->
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <!--Javascript icon-->
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!--Python icon-->
+  <img align="center" alt="Php" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> <!--Php icon-->
+  <img align="center" alt="MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> <!--MySQL icon-->  
 </div>
 
 ---
@@ -53,6 +55,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Instagram](https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evertin_bg/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Everton-Bigoni-Jr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonbgjunior@gmail.com)
+
+
+
 
 
 ![snake gif](https://github.com/EvertonBigoni/EvertonBigoni/blob/output/github-contribution-grid-snake-dark.svg)
