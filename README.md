@@ -3,7 +3,7 @@
 
 # 👋 Hi i'm **Everton Bigoni**
 
-**Estudante dedicado na área de Tecnologia da Informação, com grande interesse em desenvolvimento, lógica de programação e soluções criativas. Busco aprender continuamente e me desenvolver para construir uma carreira sólida na área de TI, sempre encarando novos desafios com determinação.**
+**Estudante dedicado na área de Tecnologia da Informação, com grande interesse em desenvolvimento, lógica de programação e soluções criativas. Busco aprender continuamente e me desenvolver para construir uma carreira sólida na área de TI.**
 
 ---
 
