@@ -29,8 +29,8 @@
 
 ## 🚀 Sobre mim
 - 📚 Sempre estudando e evoluindo na área de TI  
-- 💡 Apaixonado por tecnologia, programação e novos desafios  
-- 🔥 Em busca de me tornar um grande profissional de tecnologia  
+- 💡 Apaixonado por tecnologia e programação e novos desafios  
+- 🔥 Estudante do ensino médio
 
 ---
 
