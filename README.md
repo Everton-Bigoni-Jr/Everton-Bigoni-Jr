@@ -1,4 +1,5 @@
 
+<!--👑Jesus is King👑-->
 
 # 👋 Hi i'm **Everton Bigoni**
 
@@ -33,31 +34,7 @@
 
 ---
 
-Se quiser, posso adicionar:
-✔ Ícones animados  
-✔ Seção de projetos destacados  
-✔ Uma frase de impacto personalizada  
-✔ Badges de redes sociais (Instagram, LinkedIn, GitHub…)
-
-Quer que eu deixe ainda mais estiloso? 😎🔥
-
-<!--
-**Everton-Bigoni-Jr/Everton-Bigoni-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
-
+<!--Contact Networks-->
 <div style="display: flex; gap: 10px;">
   <a href="https://www.instagram.com/evertin_bg/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white">
@@ -71,7 +48,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
+<!---->
 
 
 
