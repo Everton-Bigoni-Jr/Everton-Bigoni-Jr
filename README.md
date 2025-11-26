@@ -21,8 +21,8 @@
 
 ## 📊 Estatísticas do GitHub
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everton-Bigoni-Jr&show_icons=true&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Bigoni-Jr&layout=compact&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertin-bg&show_icons=true&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertin-bg&layout=compact&theme=highcontrast"/>
 </div>
 
 ---
